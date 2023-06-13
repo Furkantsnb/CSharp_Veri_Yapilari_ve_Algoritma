@@ -1,0 +1,15 @@
+C:\Users\furka\Desktop\c# projelerim\VeriYapilari\bin\Debug\net6.0\VeriYapilari.exe
+C:\Users\furka\Desktop\c# projelerim\VeriYapilari\bin\Debug\net6.0\VeriYapilari.deps.json
+C:\Users\furka\Desktop\c# projelerim\VeriYapilari\bin\Debug\net6.0\VeriYapilari.runtimeconfig.json
+C:\Users\furka\Desktop\c# projelerim\VeriYapilari\bin\Debug\net6.0\VeriYapilari.dll
+C:\Users\furka\Desktop\c# projelerim\VeriYapilari\bin\Debug\net6.0\VeriYapilari.pdb
+C:\Users\furka\Desktop\c# projelerim\VeriYapilari\obj\Debug\net6.0\VeriYapilari.csproj.AssemblyReference.cache
+C:\Users\furka\Desktop\c# projelerim\VeriYapilari\obj\Debug\net6.0\VeriYapilari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\Desktop\c# projelerim\VeriYapilari\obj\Debug\net6.0\VeriYapilari.AssemblyInfoInputs.cache
+C:\Users\furka\Desktop\c# projelerim\VeriYapilari\obj\Debug\net6.0\VeriYapilari.AssemblyInfo.cs
+C:\Users\furka\Desktop\c# projelerim\VeriYapilari\obj\Debug\net6.0\VeriYapilari.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\c# projelerim\VeriYapilari\obj\Debug\net6.0\VeriYapilari.dll
+C:\Users\furka\Desktop\c# projelerim\VeriYapilari\obj\Debug\net6.0\refint\VeriYapilari.dll
+C:\Users\furka\Desktop\c# projelerim\VeriYapilari\obj\Debug\net6.0\VeriYapilari.pdb
+C:\Users\furka\Desktop\c# projelerim\VeriYapilari\obj\Debug\net6.0\VeriYapilari.genruntimeconfig.cache
+C:\Users\furka\Desktop\c# projelerim\VeriYapilari\obj\Debug\net6.0\ref\VeriYapilari.dll

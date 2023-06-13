@@ -1,0 +1,15 @@
+C:\Users\furka\Desktop\c# projelerim\VeriYapilari\bin\Debug\net6.0\LinkedListGiris.exe
+C:\Users\furka\Desktop\c# projelerim\VeriYapilari\bin\Debug\net6.0\LinkedListGiris.deps.json
+C:\Users\furka\Desktop\c# projelerim\VeriYapilari\bin\Debug\net6.0\LinkedListGiris.runtimeconfig.json
+C:\Users\furka\Desktop\c# projelerim\VeriYapilari\bin\Debug\net6.0\LinkedListGiris.dll
+C:\Users\furka\Desktop\c# projelerim\VeriYapilari\bin\Debug\net6.0\LinkedListGiris.pdb
+C:\Users\furka\Desktop\c# projelerim\VeriYapilari\obj\Debug\net6.0\LinkedListGiris.csproj.AssemblyReference.cache
+C:\Users\furka\Desktop\c# projelerim\VeriYapilari\obj\Debug\net6.0\LinkedListGiris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\Desktop\c# projelerim\VeriYapilari\obj\Debug\net6.0\LinkedListGiris.AssemblyInfoInputs.cache
+C:\Users\furka\Desktop\c# projelerim\VeriYapilari\obj\Debug\net6.0\LinkedListGiris.AssemblyInfo.cs
+C:\Users\furka\Desktop\c# projelerim\VeriYapilari\obj\Debug\net6.0\LinkedListGiris.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\c# projelerim\VeriYapilari\obj\Debug\net6.0\LinkedListGiris.dll
+C:\Users\furka\Desktop\c# projelerim\VeriYapilari\obj\Debug\net6.0\refint\LinkedListGiris.dll
+C:\Users\furka\Desktop\c# projelerim\VeriYapilari\obj\Debug\net6.0\LinkedListGiris.pdb
+C:\Users\furka\Desktop\c# projelerim\VeriYapilari\obj\Debug\net6.0\LinkedListGiris.genruntimeconfig.cache
+C:\Users\furka\Desktop\c# projelerim\VeriYapilari\obj\Debug\net6.0\ref\LinkedListGiris.dll
